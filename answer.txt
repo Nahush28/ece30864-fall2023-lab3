@@ -6,3 +6,8 @@ There are three types of meetings in a sprint. Here they are in the correspondin
 Sprint Planning Meeting - Determine what to complete during sprint. Determine story points and assign stories to team.
 Daily Standup Meeting: Short meeting that happen every workday of the sprint. Usually only 10 minutes long.
 Sprint Retrospective - Occurs at the end of the sprint. Discuss complete work and move incomplete work to backlog.
+
+Issue - A unite of work that can be tracked through waterflow
+Epic - Captures a large body of work that can be broken down into several smaller stories
+Story - A software requirement that is expressed in a few short sentences
+Bug/Defect - A task that involves fixing an issue in the codebase.
